@@ -6,7 +6,7 @@ import myImage2 from './cat.jpg';
 
 function Projects() {
   return (
-    <div className="w-[95%] mx-auto flex flex-col justify-center items-center mt-32">
+    <div className="w-[95%] mx-auto flex flex-col justify-center items-center mt-32" id="projects">
     <h2 className="text-white text-4xl font-bold mb-24 ">My Projects</h2>
         <div className="flex flex-row space-x-64">
 

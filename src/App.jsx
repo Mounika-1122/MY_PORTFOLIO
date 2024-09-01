@@ -12,7 +12,7 @@ import Copyright from './components/Copyright';
 function App() {
  
   return (
-   <div className="bg-black px-8">
+   <div className="bg-black px-8 app">
    <NavBar />
    <Home />
    <About />

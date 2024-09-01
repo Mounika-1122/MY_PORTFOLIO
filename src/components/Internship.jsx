@@ -13,7 +13,13 @@ function Internship() {
       </div>
 
       <div className="mt-9">
-      <button className="bg-[#00ABF0] text-black px-6 py-4 rounded-md cursor-pointer">LETS HAVE A TALK</button>
+
+        <a  href="mailto:mounikarankireddy096@gmail.com">
+
+        <button className="bg-[#00ABF0] text-black px-6 py-4 rounded-md cursor-pointer">LETS HAVE A TALK</button>
+        
+        </a>
+     
       </div>
       </div>
     </div>

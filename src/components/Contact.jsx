@@ -6,7 +6,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 function Contact() {
   return (
-    <div className=" w-[95%] mx-auto flex flex-col justify-center items-center mt-24 ">
+    <div className=" w-[95%] mx-auto flex flex-col justify-center items-center mt-24 " id="contact">
       <h2 className="text-white text-4xl font-bold pt-2">Contact Me</h2>
 
       <div className="w-[70%] mx-auto flex flex-row justify-between">

@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className=" flex flex-col w-[90%] mx-auto mt-28">
+    <div className=" flex flex-col w-[90%] mx-auto mt-28" id="about">
       <div className="flex justify-start flex-col ">
         <p className="text-white text-4xl font-bold flex justify-center items-center ">About Me</p>
         <p className=" text-gray-500 pt-7 text-3xl ">
@@ -19,7 +19,7 @@ function About() {
           <div className="mt-11 flex justify-center items-center">
             <a
               target="_blank"
-              className="bg-[#00ABF0] text-black px-4 py-3 rounded-md cursor-pointer"
+              className="bg-[#00ABF0] text-black px-5 py-4 rounded-md cursor-pointer"
               rel="ro referrer no-opener"
               href="https://drive.google.com/file/d/1Dx2L66g8q4Rq2CZtorQf9FD4FpVYY_GW/view?usp=drivesdk"
             >DOWNLOAD CV</a>
