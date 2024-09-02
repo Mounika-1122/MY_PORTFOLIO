@@ -9,8 +9,8 @@ import { FaReact } from "react-icons/fa";
 function Skills() {
   return (
     <div className="flex flex-col mt-28 " id="skills">
-        <div className=' text-white text-4xl font-bold  flex justify-center items-center'>My Skills</div>
-        <div className="flex flex-col pl-52 space-y-14">
+        <div className=' text-white text-4xl font-bold  flex justify-center items-center '>My Skills</div>
+        <div className="flex flex-col pl-32 space-y-14">
         
         <div className="flex flex-row space-x-52 w-[65%] mx-auto  ">
 

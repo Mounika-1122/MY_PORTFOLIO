@@ -8,8 +8,8 @@ function Internship() {
       <h2 className="text-white text-5xl font-bold pt-2">opportunity</h2>
  
       <div className="mt-5">
-      <p className=" text-gray-500 text-2xl">Lets collaborate on projects and bring your ideas to life. Contact me to discuss</p>
-      <center className=" text-gray-500 text-2xl">how we can work together and achieve remarkable results.</center>
+      <p className=" text-gray-500 text-3xl">Lets collaborate on projects and bring your ideas to life. Contact me to discuss</p>
+      <center className=" text-gray-500 text-3xl">how we can work together and achieve remarkable results.</center>
       </div>
 
       <div className="mt-9">
@@ -17,7 +17,7 @@ function Internship() {
         <a  href="mailto:mounikarankireddy096@gmail.com">
 
         <button className="bg-[#00ABF0] text-black px-6 py-4 rounded-md cursor-pointer">LETS HAVE A TALK</button>
-        
+
         </a>
      
       </div>

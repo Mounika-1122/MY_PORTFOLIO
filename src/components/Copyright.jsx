@@ -3,7 +3,7 @@ import { FaCopyright } from "react-icons/fa6";
 
 function Copyright() {
   return (
-    <div className="flex flex-row justify-center items-center space-x-2 mx-auto mt-16 text-lg">
+    <div className="flex flex-row justify-center items-center space-x-2 mx-auto mt-16 text-2xl">
       <p className="text-gray-500 ">Copyright</p>
       <div>
       <FaCopyright className="text-gray-500  w-5 h-5" />

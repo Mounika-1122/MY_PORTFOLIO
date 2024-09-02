@@ -18,7 +18,7 @@ const Home =() =>{
 
          <div className="space-x-6 font-small pt-5 ">
 
-         <a href="https://www.linkedin.com/in/mounika-rankireddy-23786b269/" target='_blank'> <button className=" text-black bg-[#00ABF0] rounded-3xl p-5 py-3">CONNECT WITH ME</button></a>
+         <a href="https://www.linkedin.com/in/mounika-rankireddy-23786b269/" target='_blank'> <button className=" text-black bg-[#00ABF0] rounded-3xl px-5 py-3">CONNECT WITH ME</button></a>
 
          <Link 
           className="cursor-pointer text-[#00ABF0]" 
